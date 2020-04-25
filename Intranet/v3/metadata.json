@@ -1,9 +1,51 @@
 {
   "Technologies": [
-    
+    {
+      "Id": "e75b9087-6bb2-417f-a696-e667bea533a7",
+      "Name": "Intranet",
+      "Subjects": [
+        {
+          "Id": "f1b531e0-2a62-4007-8858-08bd8be6ecae",
+          "Name": "Everis Knowler"
+        },
+        {
+          "Id": "1b22eb5a-2fb4-4706-87d0-68d4823c4ca1",
+          "Name": "Everis Nows"
+        }
+      ]
+    }
   ],
   "Categories": [
-    
+    {
+      "Id": "618da7fa-0ed2-4653-9dfd-271c3bbe3a44",
+      "Name": "Productos",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Microsoft",
+      "SubCategories": [
+        {
+          "Id": "eae1d41e-f5a0-4ba2-b714-8115a97cf1f9",
+          "Name": "Everis Knowler",
+          "Image": "images/categories/outlook.png",
+          "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
+          "SubjectId": null,
+          "Source": "SOC",
+          "SubCategories": []
+        },
+		
+		{
+          "Id": "80d55812-5a59-4c93-bc44-152818618910",
+          "Name": "Everis Nows",
+          "Image": "images/categories/outlook.png",
+          "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
+          "SubjectId": null,
+          "Source": "SOC",
+          "SubCategories": []
+        }
+	]
+   }	
+	
   ],
   "Audiences": [
     {
